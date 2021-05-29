@@ -94,6 +94,7 @@ Output is written to standard output and must have the following characteristics
 #### Errors
 You should detect the following errors:
 | Code | Type |
+| :-------------: | :-------------: |
 | E1 | Invalid Input Format |
 | E2 | Duplicate Pair |
 | E3 | Parent Has More than Two Children |
